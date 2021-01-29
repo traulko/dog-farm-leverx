@@ -1,6 +1,7 @@
 package com.traulko.task1.entity;
 
-import com.traulko.task1.entity.impl.CleanerStaffImpl;
+import com.traulko.task1.entity.staff.impl.CleanerStaffImpl;
+import com.traulko.task1.entity.staff.Staff;
 import lombok.Data;
 
 @Data
